@@ -17,4 +17,3 @@ process SAY_HELLO {
 workflow {
   SAY_HELLO()
 }
-``
